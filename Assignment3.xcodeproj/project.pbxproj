@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					C51E51DF1DAA00140031A6BE = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = T7WXMC6WWZ;
 						ProvisioningStyle = Automatic;
 					};
 					C51E51F31DAA00140031A6BE = {
@@ -412,11 +413,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T7WXMC6WWZ;
 				INFOPLIST_FILE = Assignment3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = manjunath.deekshitha.Assignment3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -424,11 +427,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T7WXMC6WWZ;
 				INFOPLIST_FILE = Assignment3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = manjunath.deekshitha.Assignment3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
